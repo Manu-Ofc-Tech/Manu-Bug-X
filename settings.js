@@ -16,10 +16,10 @@ global.calender = d.toLocaleDateString('id')
 //================[. GLOBAL OWNER ]================//
 
 global.prefa = ['','!','.',',','💚','🗿']
-global.owner = ['94742274855'] //masukin nmr lu
-global.ownMain = '94742274855' //masukin nmr lu
-global.NamaOwner = 'Emperot' //gausah diganti 
-global.sessionName = 'Manul-Ofc'
+global.owner = ['94740651063'] //masukin nmr lu
+global.ownMain = '94740651063' //masukin nmr lu
+global.NamaOwner = 'udiya' //gausah diganti 
+global.sessionName = 'Manu-MD&GV9GBYjC#9ELkqcvZgHRk0AkFjsLTplarZdXs0ljuFFsdfkvC8WU'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚' //ganti aj klo mau
 global.author = '©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚' //ganti aj klo mau
