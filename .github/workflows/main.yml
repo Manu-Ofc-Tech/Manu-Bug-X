@@ -8,8 +8,8 @@ on:
     branches:
       - main
 
-jobs:
-  build:
+jobs: Bug
+  build: Method file
 
     runs-on: ubuntu-latest
 
